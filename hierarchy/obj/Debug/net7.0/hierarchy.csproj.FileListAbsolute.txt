@@ -1,0 +1,15 @@
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\bin\Debug\net7.0\hierarchy.exe
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\bin\Debug\net7.0\hierarchy.deps.json
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\bin\Debug\net7.0\hierarchy.runtimeconfig.json
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\bin\Debug\net7.0\hierarchy.dll
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\bin\Debug\net7.0\hierarchy.pdb
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.csproj.AssemblyReference.cache
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.AssemblyInfoInputs.cache
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.AssemblyInfo.cs
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.dll
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\refint\hierarchy.dll
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.pdb
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\hierarchy.genruntimeconfig.cache
+C:\Users\JIRes\OneDrive\Desktop\hierarchy\obj\Debug\net7.0\ref\hierarchy.dll
